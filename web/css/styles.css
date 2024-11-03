@@ -1,8 +1,3 @@
-/* Template: Aria - Business HTML Landing Page Template
-   Author: Inovatik
-   Created: Jul 2019
-   Description: Master CSS file
-*/
 
 /*****************************************
 Table Of Contents:
@@ -655,8 +650,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 7.0625rem;
-	height: 2rem;
+    width: 7rem;
+	height: 3rem;
 	-webkit-backface-visibility: hidden;
 }
 
@@ -772,7 +767,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/main.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/17dl6gl0jq781.webp') center center no-repeat;
 	background-size: cover;
 }
 
@@ -975,7 +970,7 @@ input[type='checkbox'] {
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
-	background: url('../images/details-1-background.jpg') center center no-repeat;
+	background: url('../images/EPSN0037.JPG') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1165,7 +1160,7 @@ input[type='checkbox'] {
 
 .tabs .area-2 {
 	height: 27rem;
-	background: url('../images/details-2-background.jpg') center center no-repeat;
+	background: url('../images/EPSN0036.JPG') center center no-repeat;
 	background-size: cover;
 }
 
